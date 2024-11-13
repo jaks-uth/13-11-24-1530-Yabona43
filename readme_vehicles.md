@@ -34,6 +34,9 @@ Twoim zadaniem jest utworzenie struktury klas reprezentujących różne typy poj
 
 Przykładowy kod testowy powinien wyglądać następująco:
 
+
+
+
 ```java
 Car car = new Car("Sedan", 4);
 assertEquals(200, car.getMaxSpeed());
@@ -41,3 +44,5 @@ assertEquals(4, car.getDoors());
 
 Bike bike = new Bike("Mountain Bike");
 assertEquals(50, bike.getMaxSpeed());
+
+![img.png](img.png)![screen.png](../../../Downloads/screen.png)
